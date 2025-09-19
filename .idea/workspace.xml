@@ -5,22 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="16dffccf-959d-4479-a3df-73e5230e03f9" name="Changes" comment="init commit">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/mysql_connector_java_8_0_30.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GarageBillingSystem.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/config/DBConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/entity/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/entity/Invoice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/entity/Vehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/service/BillingService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/service/CustomerService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/service/InvoiceService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/service/VehicleService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +22,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Nikita253"
+  }
+}]]></component>
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
     "url": "https://github.com/Nikita253/Garage_Billing_System.git",
@@ -45,6 +36,9 @@
 }]]></component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
@@ -79,6 +73,15 @@
       <option name="presentableId" value="Default" />
       <updated>1756804349101</updated>
     </task>
+    <task id="LOCAL-00001" summary="init commit">
+      <option name="closed" value="true" />
+      <created>1758264107895</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1758264107895</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
